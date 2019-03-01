@@ -32,3 +32,4 @@ All packages stored on https://zenodo.org/ with metadata and DOI so that they ar
 2. Metadata and package enter staging area (what backend to use?)
 3. Data Editor reviews package
 4. Script uploads to github and zenodo
+
