@@ -12,6 +12,7 @@ All packages stored on https://zenodo.org/ with metadata and DOI so that they ar
 
 ## Tasks
 - Explore Github and Zenodo API.
+  - See: https://developers.zenodo.org/
 - Explore folder and file structure in Restud backlog.
 - Build a datastore of metadata of replication packages. (zenodo UI? submisssion form in .docx format? new, structured submission form?)
 - Develop/test tool to upload ZIP files to GitHub as new repos.
